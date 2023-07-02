@@ -1,0 +1,45 @@
+.vacancy-container {
+  background-color: #F6F5EF;
+  padding: 3.5rem;
+}
+
+.vacancy-container h2 {
+  text-align: center;
+  font-size: 3rem;
+  /* margin-bottom: 3rem; */
+  color: #012D6B;
+}
+
+.vacancy-card {
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  padding: 3rem;
+}
+
+.vacancy-card img {
+  width: 30rem;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #78C3F7;
+}
+
+
+.vacancy-card div h3 {
+  text-align: center;
+  color: #012D6B;
+  font-size: 3rem;
+}
+
+.vacancy-card div p {
+  color: #012D6B;
+  font-size: 1.5rem;
+  margin: 1rem 0;
+  font-weight: 600;
+}
+
+.vacancy-card div a {
+  text-align: center !important;
+  align-self: center;
+  font-size: 1.5rem;
+}
