@@ -14,7 +14,7 @@ function Forms() {
     <section className="job-container">
       <div className="title-form">
         <h2>Envie seu Currículo</h2>
-        <FaWpforms size={40} color="blue" />
+        <FaWpforms size={40} color="#024CB5" />
       </div>
       <h3>Venha trabalhar conosco!</h3>
       <form>
