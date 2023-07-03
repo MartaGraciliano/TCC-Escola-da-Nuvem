@@ -52,6 +52,14 @@ const curriculums = [
     descricao:
       'Experiência em atendimento ao cliente, eu sempre me concentro na experiência que meu consumidor final terá com o produto. Tenho 7 anos de experiência em Gestão e Consultoria Digital. Entusiasta do mercado financeiro e tecnologia.',
   },
+  {
+    img: '/assets/CV.Fernando Gazoli.png',
+    pdf: '/assets/CV.Fernando Gazoli.pdf',
+    nome: 'Fernando Gazoli',
+    local: 'São José do Rio Preto, SP',
+    descricao:
+      'ExpEstudante de Ciência de Dados, com experiência no ramo de varejo de combustível, processos e negócios, passo por uma transição de carreira, onde busco conhecer e aprender a implementar estratégias de migração de aplicações para Cloud, visando a redução de custos e aumento de desempenho, com isso almejo uma oportunidade para atuar na área de TI, com foco em dados e Cloud.eriência em atendimento ao cliente, eu sempre me concentro na experiência que meu consumidor final terá com o produto. Tenho 7 anos de experiência em Gestão e Consultoria Digital. Entusiasta do mercado financeiro e tecnologia.',
+  },
 ];
 
 const breakPoints = [
